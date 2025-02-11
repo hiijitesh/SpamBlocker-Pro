@@ -1,4 +1,4 @@
-# Spam Blocker Pro
+# Spam Blocker
 
 -   Developed RESTful API using Node.js and Express.js for spam-blocking web application with MySQL database,
     empowering users to report and search spam numbers.
